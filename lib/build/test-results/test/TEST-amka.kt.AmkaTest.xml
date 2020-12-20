@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="amka.kt.AmkaTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-12-20T17:24:11" hostname="MacBook-Pro.local" time="0.016">
+  <properties/>
+  <testcase name="it_fails_when_long_number" classname="amka.kt.AmkaTest" time="0.013"/>
+  <testcase name="it_validates_valid_amka" classname="amka.kt.AmkaTest" time="0.0"/>
+  <testcase name="it_fails_when_not_a_valid_date" classname="amka.kt.AmkaTest" time="0.0"/>
+  <testcase name="it_fails_with_bad_checkdigit" classname="amka.kt.AmkaTest" time="0.0"/>
+  <testcase name="it_fails_when_not_a_number" classname="amka.kt.AmkaTest" time="0.0"/>
+  <testcase name="it_fails_when_short_number" classname="amka.kt.AmkaTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
